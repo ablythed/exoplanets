@@ -1,5 +1,5 @@
 # Exoplanet Explorer
-This repository contains an exploration of confirmed and candidate exoplanet data, as well as an interactive dashboard. The main code is included in [exoplanets.ipynb](https://github.com/ablythed/exoplanets/blob/main/exoplanets.ipynb). To run the notebook, first clone this repo, then navigate into it. Then create the environment:
+This repository contains an exploration and analysis of confirmed and candidate exoplanet data, as well as an interactive dashboard. The main code is included in [exoplanets.ipynb](https://github.com/ablythed/exoplanets/blob/main/exoplanets.ipynb). To run the notebook, first clone this repo, then navigate into it. Then create the environment:
 
 ```
 > conda create --name exoplanets --file requirements.txt
