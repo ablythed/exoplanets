@@ -7,13 +7,6 @@ This repository contains an exploration and analysis of confirmed and candidate 
 > jupyter notebook exoplanets.ipynb
 ```
 
-or if you're using pip,
-
-```
-> pip install -r requirements.txt
-> jupyter notebook exoplanets.ipynb
-```
-
 To view the dashboard on its own without opening the notebook, run `panel serve --show exoplanets.ipynb` in the command line.
 
 I first created this project in 2021 as an intern at Anaconda, and updated it in 2024 to include more data analysis and newer data. An older version of this notebook exists on the [HoloViz site as an example](https://examples.holoviz.org/gallery/exoplanets/exoplanets.html). An older version of the dashboard lives there too.
